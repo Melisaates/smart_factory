@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>211618459999-kec8bc0l97crbdfdh2ia3ntufh9mu1hm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.211618459999-kec8bc0l97crbdfdh2ia3ntufh9mu1hm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_N45XJRPw5r82BU__c4yhLrkH2VdpDQI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>211618459999</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smartFactory</string>
+	<key>PROJECT_ID</key>
+	<string>smartfactory-59a13</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartfactory-59a13.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:211618459999:ios:503f5aba4b24ea42b346ea</string>
+</dict>
+</plist>
